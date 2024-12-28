@@ -48,7 +48,7 @@ pip install -r requirements.txt
 3. Open the app in your browser at `http://localhost:8501`.
 
 ## Deployment
-The app is deployed on **Streamlit Community Cloud**. Access it [here](#link-to-deployed-app).
+The app is deployed on **Streamlit Community Cloud**. Access it [here](https://abdul-wasih03-iris-flower-predictor.streamlit.app/).
 
 ## Model Training
 - The model is a **Decision Tree Classifier** trained on the Iris dataset.
@@ -66,11 +66,10 @@ The app is deployed on **Streamlit Community Cloud**. Access it [here](#link-to-
 
 ## Screenshots
 ### Input Fields
-![Input Fields](image-1.png)
+![input](https://github.com/user-attachments/assets/80c9ac83-9ccb-4c46-9745-f8de2d5dda3f)
 
 ### Confusion Matrix
-![Confusion Matrix](image.png)
-
+![Confusion Matrix](https://github.com/user-attachments/assets/9e0e4911-49d9-4be5-825c-f60d377cb9bd)
 ## Acknowledgments
 - Dataset: [UCI Machine Learning Repository - Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
 - Built with [Streamlit](https://streamlit.io/)
